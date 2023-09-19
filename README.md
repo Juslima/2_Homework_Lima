@@ -51,5 +51,3 @@ Make sure to review and ensure the following:
 Save this HTML file with a .html extension for local use or hosting on a web server. Alternatively, it can be hosted on platforms like CodePen, JSFiddle, CodeSandbox, or GitHub.
 
 ---
-
-Feel free to use and adapt this README as needed for your project documentation.
