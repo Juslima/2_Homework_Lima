@@ -1,4 +1,5 @@
 # Lecture Series Presents Juliana - Avatar Profile
+<img width="404" alt="2_Homework_Lima" src="https://github.com/Juslima/2_Homework_Lima/assets/130790909/04c68309-f80f-40fb-89bb-159e9a5c1fcc">
 
 ## Description
 
